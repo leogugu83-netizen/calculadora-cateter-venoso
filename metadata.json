@@ -1,0 +1,5 @@
+{
+  "name": "HemoCalc - Calculadora Infusional",
+  "description": "Calculadora de ocupação de cateter vascular (French vs Diâmetro) com visualização em tempo real para prevenção de trombose.",
+  "requestFramePermissions": []
+}
